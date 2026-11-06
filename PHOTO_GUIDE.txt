@@ -1,0 +1,11 @@
+OLYV — EDITED ASSETS
+
+The assets/photo-01.jpg through photo-40.jpg files are cropped and upscaled from the 40 supplied mobile screenshots. Instagram chrome, status bars, bottom controls and thumbnails have been trimmed. Source resolution limits true recovered detail; 1440-pixel width is an upscale, not an original HD camera capture.
+
+photos 34, 35, 37, 38, 40: menu screenshots, cleaned for reference but not displayed in the redesigned web menu.
+photo 39: prior logo screenshot, replaced throughout the website by the latest official logo.
+
+Original logo crop: assets/olyv-official-logo.png
+Original tree motif extracted: assets/olyv-tree-watermark.png
+
+To publish, upload this entire folder with index.html and assets/ intact.

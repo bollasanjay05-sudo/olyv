@@ -1,0 +1,254 @@
+[
+  {
+    "chapter": "Breakfast",
+    "left": {
+      "photo": "assets/photo-23.jpg",
+      "title": "A beautiful breakfast",
+      "subtitle": "OLYV · Riga"
+    },
+    "right": {
+      "photo": "assets/photo-29.jpg",
+      "title": "The breakfast table",
+      "subtitle": "Grill & Tapas"
+    },
+    "description": "Start the day at OLYV."
+  },
+  {
+    "chapter": "Breakfast",
+    "left": {
+      "photo": "assets/photo-30.jpg",
+      "title": "Seasonal breakfast",
+      "subtitle": "OLYV · Riga"
+    },
+    "right": {
+      "photo": "assets/photo-31.jpg",
+      "title": "Brunch favorites",
+      "subtitle": "Grill & Tapas"
+    },
+    "description": "Start the day at OLYV."
+  },
+  {
+    "chapter": "Breakfast",
+    "left": {
+      "photo": "assets/photo-32.jpg",
+      "title": "Something sweet",
+      "subtitle": "OLYV · Riga"
+    },
+    "right": {
+      "photo": "assets/photo-36.jpg",
+      "title": "A classic start",
+      "subtitle": "Grill & Tapas"
+    },
+    "description": "Start the day at OLYV."
+  },
+  {
+    "chapter": "Menu",
+    "left": {
+      "photo": "assets/photo-01.jpg",
+      "title": "Forest-inspired starter",
+      "subtitle": "OLYV · Riga"
+    },
+    "right": {
+      "photo": "assets/photo-02.jpg",
+      "title": "A sweet finish",
+      "subtitle": "Grill & Tapas"
+    },
+    "description": "At the heart of the table."
+  },
+  {
+    "chapter": "Menu",
+    "left": {
+      "photo": "assets/photo-03.jpg",
+      "title": "On the board",
+      "subtitle": "OLYV · Riga"
+    },
+    "right": {
+      "photo": "assets/photo-04.jpg",
+      "title": "Dessert in a glass",
+      "subtitle": "Grill & Tapas"
+    },
+    "description": "At the heart of the table."
+  },
+  {
+    "chapter": "Menu",
+    "left": {
+      "photo": "assets/photo-06.jpg",
+      "title": "Straight from the grill",
+      "subtitle": "OLYV · Riga"
+    },
+    "right": {
+      "photo": "assets/photo-10.jpg",
+      "title": "Fresh & seasonal",
+      "subtitle": "Grill & Tapas"
+    },
+    "description": "At the heart of the table."
+  },
+  {
+    "chapter": "Menu",
+    "left": {
+      "photo": "assets/photo-14.jpg",
+      "title": "From our kitchen",
+      "subtitle": "OLYV · Riga"
+    },
+    "right": {
+      "photo": "assets/photo-26.jpg",
+      "title": "A generous burger",
+      "subtitle": "Grill & Tapas"
+    },
+    "description": "At the heart of the table."
+  },
+  {
+    "chapter": "Menu",
+    "left": {
+      "photo": "assets/photo-27.jpg",
+      "title": "Fresh & green",
+      "subtitle": "OLYV · Riga"
+    },
+    "right": {
+      "photo": "assets/photo-27.jpg",
+      "title": "Fresh & green",
+      "subtitle": "Grill & Tapas"
+    },
+    "description": "At the heart of the table."
+  },
+  {
+    "chapter": "Drinks",
+    "left": {
+      "photo": "assets/photo-05.jpg",
+      "title": "Cocktails with character",
+      "subtitle": "OLYV · Riga"
+    },
+    "right": {
+      "photo": "assets/photo-09.jpg",
+      "title": "Terrace moments",
+      "subtitle": "Grill & Tapas"
+    },
+    "description": "Every hour deserves a toast."
+  },
+  {
+    "chapter": "Drinks",
+    "left": {
+      "photo": "assets/photo-21.jpg",
+      "title": "A bright pour",
+      "subtitle": "OLYV · Riga"
+    },
+    "right": {
+      "photo": "assets/photo-22.jpg",
+      "title": "Golden-hour cocktails",
+      "subtitle": "Grill & Tapas"
+    },
+    "description": "Every hour deserves a toast."
+  },
+  {
+    "chapter": "Drinks",
+    "left": {
+      "photo": "assets/photo-25.jpg",
+      "title": "Pink cocktail moment",
+      "subtitle": "OLYV · Riga"
+    },
+    "right": {
+      "photo": "assets/photo-28.jpg",
+      "title": "The basil sour",
+      "subtitle": "Grill & Tapas"
+    },
+    "description": "Every hour deserves a toast."
+  },
+  {
+    "chapter": "Interior",
+    "left": {
+      "photo": "assets/photo-07.jpg",
+      "title": "Behind the bar",
+      "subtitle": "OLYV · Riga"
+    },
+    "right": {
+      "photo": "assets/photo-08.jpg",
+      "title": "A cozy booth",
+      "subtitle": "Grill & Tapas"
+    },
+    "description": "Warm wood, olive leaves and good company."
+  },
+  {
+    "chapter": "Interior",
+    "left": {
+      "photo": "assets/photo-11.jpg",
+      "title": "A slow afternoon",
+      "subtitle": "OLYV · Riga"
+    },
+    "right": {
+      "photo": "assets/photo-12.jpg",
+      "title": "A little corner of OLYV",
+      "subtitle": "Grill & Tapas"
+    },
+    "description": "Warm wood, olive leaves and good company."
+  },
+  {
+    "chapter": "Interior",
+    "left": {
+      "photo": "assets/photo-13.jpg",
+      "title": "Set for sharing",
+      "subtitle": "OLYV · Riga"
+    },
+    "right": {
+      "photo": "assets/photo-15.jpg",
+      "title": "Under the olive tree",
+      "subtitle": "Grill & Tapas"
+    },
+    "description": "Warm wood, olive leaves and good company."
+  },
+  {
+    "chapter": "Interior",
+    "left": {
+      "photo": "assets/photo-16.jpg",
+      "title": "At the drinks counter",
+      "subtitle": "OLYV · Riga"
+    },
+    "right": {
+      "photo": "assets/photo-17.jpg",
+      "title": "The craft of the bar",
+      "subtitle": "Grill & Tapas"
+    },
+    "description": "Warm wood, olive leaves and good company."
+  },
+  {
+    "chapter": "Interior",
+    "left": {
+      "photo": "assets/photo-18.jpg",
+      "title": "Under stained glass",
+      "subtitle": "OLYV · Riga"
+    },
+    "right": {
+      "photo": "assets/photo-19.jpg",
+      "title": "Faces of OLYV",
+      "subtitle": "Grill & Tapas"
+    },
+    "description": "Warm wood, olive leaves and good company."
+  },
+  {
+    "chapter": "Interior",
+    "left": {
+      "photo": "assets/photo-20.jpg",
+      "title": "A warm room",
+      "subtitle": "OLYV · Riga"
+    },
+    "right": {
+      "photo": "assets/photo-24.jpg",
+      "title": "Gathering at the table",
+      "subtitle": "Grill & Tapas"
+    },
+    "description": "Warm wood, olive leaves and good company."
+  },
+  {
+    "chapter": "Interior",
+    "left": {
+      "photo": "assets/photo-33.jpg",
+      "title": "The olive tree room",
+      "subtitle": "OLYV · Riga"
+    },
+    "right": {
+      "photo": "assets/photo-33.jpg",
+      "title": "The olive tree room",
+      "subtitle": "Grill & Tapas"
+    },
+    "description": "Warm wood, olive leaves and good company."
+  }
+]
